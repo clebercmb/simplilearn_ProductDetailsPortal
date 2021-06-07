@@ -3,6 +3,8 @@
 
 *.class
 
+*.vpp.*
+
 VirtualRepository/
 
 # User-specific stuff
